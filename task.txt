@@ -1,0 +1,12 @@
+Dear,
+
+I hope this message finds you well.
+You have been assigned to develop a Task Management API using NestJS. The API should allow users to:
+Register and log in.Create, view, update, and delete tasks (CRUD operations).Implement user authentication and authorization mechanisms.Your key responsibilities include:
+1. Role-Based Access Control (RBAC):
+Restrict the DELETE /orders endpoint to admin users only.Apply appropriate role-based access restrictions to other endpoints where necessary.
+2. CRUD Operations for Orders:
+GET /tasks → Fetch all orders.POST /tasks → Create a new order.PUT /tasks/:id → Fully update an order.PATCH /tasks/:id → Partially update an order.DELETE /tasks/:id → (Admin only) Delete an order.
+3. Swagger Documentation:
+Document all order-related endpoints using Swagger.Include detailed request and response schemas, parameters, and example responses.Please feel free to reach out if you have any questions or require further clarification.
+Best regards,
